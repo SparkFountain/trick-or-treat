@@ -1,27 +1,30 @@
-# TrickOrTreat
+# 🎃 Trick or Treat 🎃
+## A 2D Logical Game
+### by Spark Fountain
+<br />
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.7.
+## Story
+It's Halloween and the kids are running through the streets.
+They ring all the houses and yell "We want something sweet,
+otherwise it's sour!"
 
-## Development server
+You may not be a child anymore, but you still like to annoy people
+your neighbours. That's why you quickly put on a corpse costume,
+take your flamethrower and ring at all
+the houses. In the end there will be no more houses (`HARR HARR`) !
+But be careful: If you come to a torched house
+go back, the cops will bag you.
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+## Goal
+Visit all houses without visiting one twice. Passport
+also make sure you don't get stuck, otherwise you'll have to
+you restart.
 
-## Code scaffolding
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+## Controls
+- WASD or arrow keys to move
+- You cannot go back to the field you just came from come
+- Press R to restart the level
+- Click on one of the arrows at the top left and right to select the to change levels
 
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+Have fun! 
